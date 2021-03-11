@@ -1,0 +1,75 @@
+main.py-4 {
+    padding-top: 0px !important;
+}
+nav.navbar.navbar-expand-md.navbar-light.bg-white.shadow-sm {
+    background-color: #eee !important;
+}
+nav.navbar.navbar-expand-md.navbar-light.bg-white.shadow-sm {
+    border-bottom: 1px solid #d8d8d8;
+}
+#app .buttonadmin button {
+    width: 116.9%;
+    height: 50px;
+    cursor: pointer;
+    padding: 10px 24px;
+    border: 1px solid #d8d8d8;
+    margin-bottom: -1.9px;
+    text-align: left;
+    margin-left: -15px;
+}
+#app .buttonadmin button:hover {
+    background-color: #d8d8d8;
+}
+main.py-4.container-fluid {
+    background-color: #eee;
+}
+.col-md-3 {
+    background-color: #eee;
+    border-right: 1px solid #d8d8d8;
+    border-bottom: 1px solid #d8d8d8;
+}
+.buttonadmin {
+    padding-top: 50px;
+}
+.buttonadmin button p {
+    padding-left: 7px;
+}
+.col-md-9 {
+    background-color: #fff;
+}
+table.table.table-bordered.themsanpham input.form-control {
+    margin: 0;
+}
+th {
+    font-weight: 500;
+}
+i.fas.fa-trash-alt {
+    display: contents;
+}
+i.fas.fa-pen {
+    display: contents;
+}
+th {
+    font-weight: 600;
+}
+
+/*them-san-pham*/
+h1{
+    padding-top: 30px;
+    padding-bottom: 9px;
+}
+
+input.form-control {
+    margin-left: 30px;
+    width: 85%;
+    margin-top: 33px;
+    margin-bottom: -30px;
+}
+
+/*danh-sach-san-pham*/
+.view-list-product h1 {
+    padding-top: 30px;
+    padding-bottom: 9px;
+}
+
+

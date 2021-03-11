@@ -1,0 +1,438 @@
+/*bannerhome*/
+.bannerhome {
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+.carousel-inner .carousel-item img {
+    width: 100%;
+    height: auto;
+    padding-bottom: 10px;
+}
+.col-md-4.bannerright a img {
+    width: 109.5%;
+    padding: 6px 0;
+    margin-top: -6.5px;
+}
+
+a.imgbanneright img {
+    margin-bottom: 10px;
+}
+
+/*laptopmanu*/
+.col-md-12.laptopmanu {
+    border-bottom: 1px solid #f8a136;
+    margin-bottom: 2px;
+    margin-top: 15px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #fff;
+    width: 100%;
+    padding: 0;
+}
+.laptopmanu a {
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    color: #288ad6;
+    border: 1px solid #f8a136;
+    border-bottom: 0;
+    width: 159.1px;
+    margin-right: -5px;
+    text-align: center;
+    height: 40px;
+}
+.laptopmanu a img {
+    height: 30px;
+    width: auto;
+    margin-top: 5px;
+}
+
+/*laptopbuild*/
+.laptopbuild a {
+    width: calc(100%/5 - 4px);
+    display: inline-block;
+    position: relative;
+    text-align: center;
+}
+.laptopbuild {
+    width: 100%;
+    padding-bottom: 10px;
+}
+.laptopbuild p {
+    margin: 0 0 1rem -15px;
+}
+.laptopbuild a.imglaptop:after {
+    content: '';
+    height: 55%;
+    position: absolute;
+    right: 3px;
+    top: 18%;
+    width: 1px;
+    background-color: #f8a136;
+}
+a.imglaptop img {
+    width: 90%;
+
+}
+a.imglaptop1 img {
+    width: 90%;
+}
+
+.laptopprice {
+    margin-top: 20px;
+}
+div#ytb {
+    margin-top: 20px;
+}
+/*listlaptop*/
+.list-shock {
+    position: relative;
+    overflow: hidden;
+    margin-top: 20px;
+}
+.list-shock .head-title {
+    line-height: 0;
+    position: relative;
+}
+.list-shock .head-title img {
+    width: 350px;
+    height: auto;
+}
+.list-shock .head-title h3 {
+    position: absolute;
+    left: 10px;
+    top: 25%;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 23px;
+    font-weight: bold;
+}
+.list-shock .cate {
+    border: 3px solid #f8a136;
+    max-width: calc(100% - 6px);
+    flex-wrap: unset;
+}
+.owl-carousel .owl-wrapper-outer {
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    margin-left: 0px;
+}
+.cate a {
+    display: block;
+    overflow: hidden;
+    height: auto;
+    cursor: pointer;
+    text-decoration: none;
+}
+.lstlaptop .cate img {
+    display: block;
+    margin: 40px auto 25px;
+    height: 140px;
+    width: auto;
+    transition: all ease 200ms;
+}
+.lstlaptop .cate .lbldiscount {
+    background-image: linear-gradient(-90deg,#ec1f1f 0,#ff9c00 100%);
+    border-radius: 10px !important;
+    padding: 0 10px 0 0 !important;
+    width: 120px;
+    margin-bottom: 3px;
+}
+
+.lstlaptop .cate .lbl, .installmentOverlay, .cate .label-sapve {
+    display: block;
+    font-size: 11px;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 2px;
+    padding: 0 5px;
+    margin-left: 10px;
+    position: inherit;
+    height: unset;
+    line-height: unset !important;
+}
+i.fas.fa-bolt {
+    border-radius: 50%;
+    background-color: red;
+    font-size: 11px;
+    margin-right: 4px;
+    width: 14px;
+    height: 14px;
+    padding-left: 4px;
+    padding-top: 2px;
+}
+.lstlaptop .cate .props {
+    margin: 6px 0 5px;
+}
+.lstlaptop .cate .props {
+    margin: 6px 0 5px;
+}
+.cate .props {
+    padding: 0 5px;
+    margin: 10px 0 5px;
+}
+.cate div span {
+    text-decoration: none;
+}
+span.dotted {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 11px;
+    margin: 0 5px 5px 0;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #777;
+    line-height: 22px;
+    height: 20px;
+    padding: 0 5px;
+    border-radius: 2px;
+    position: relative;
+    overflow: initial;
+}
+.cate .props span:first-child:after {
+    display: block;
+    content: "";
+    width: 1px;
+    height: 14px;
+    position: absolute;
+    right: -5px;
+    bottom: 3px;
+    border-right: 1px solid #dfdfdf;
+}
+.list-shock .lstlaptop .cate h3 {
+    margin: 0 5px 5px 5px;
+}
+.lstlaptop .cate h3:hover {
+    color: #f8a136;
+}
+
+.lstlaptop .cate h3 {
+    line-height: 1.3em;
+    font-size: 15px;
+    font-weight: 500;
+    margin: 0 0 5px 10px;
+    color: #333;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.cate strong {
+    display: inline-block;
+    overflow: hidden;
+    font-size: 16px;
+    color: #c10017;
+    vertical-align: middle;
+    padding-left: 10px;
+}
+.cate div.promotion {
+    height: auto;
+    padding: 10px;
+}
+.cate div.imgpromotion {
+    display: inline-block;
+    margin: 0 9px 0 0;
+    float: left;
+}
+.cate div.imgpromotion span {
+    display: inline-block;
+    border-radius: 3px;
+    width: auto;
+    height: 40px;
+    text-align: center;
+    padding: 0;
+    line-height: 40px;
+}
+
+.cate .promotion span {
+    display: block;
+    overflow: hidden;
+    font-size: 12px;
+    color: #666;
+}
+.cate div.imgpromotion span img, .lstlaptop .cate div.imgpromotion span img {
+    display: inline-block;
+    vertical-align: middle;
+    width: auto;
+    height: 45px;
+    margin: 0;
+}
+.cate a:hover {
+    text-decoration: none;
+}
+.cate .promotion .promotion-text span {
+    overflow: hidden;
+    font-size: 12px;
+    color: #666;
+}
+.cate div.promotion-text>span {
+    padding-left: 0;
+}
+/*laptopprice*/
+.laptopprice h1 {
+    font-size: 18px;
+    font-weight: bold;
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 15px 0px;
+    margin-left: -15px;
+    color: #f8a136;
+}
+.col-md-3.cate-item {
+    background: #fff;
+    width: 25%;
+    overflow: hidden;
+    border: 1px solid #f8a136;
+    position: relative;
+    box-sizing: border-box;
+    padding-bottom: 10px;
+    margin-right: -0.9px;
+    margin-bottom: -0.99px;
+}
+.cate img:hover {
+    padding: 12px;
+}
+
+#ytb h1{
+    font-size: 18px;
+    font-weight: bold;
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 15px 0px;
+    color: #f8a136;
+}
+#ytb .col50 {
+    width: 48%;
+    padding: 0 10px 0 0;
+    display: inline-block;
+    vertical-align: top;
+}
+#ytb .col50 iframe {
+    width: 100%;
+    height: auto;
+    min-height: 350px;
+}
+#ytb .col50Nth2 .video {
+    position: relative;
+}
+a {
+    text-decoration: none;
+    color: #288ad6;
+}
+#ytb .col50Nth2 .video .imgThmbVid {
+    width: 152px;
+}
+
+#ytb .col50Nth2 .video .imgThmbVid, #ytb .col50Nth2 .video h3 {
+    display: inline-block;
+}
+#ytb .col50Nth2 .video h3 {
+    max-width: calc(100% - 172px);
+    padding: 0 0 0 10px;
+    vertical-align: top;
+    font-weight: 600;
+    line-height: 22px;
+    color: #333;
+}
+#ytb .col50Nth2 .video .imgThmbVid, #ytb .col50Nth2 .video h3 {
+    display: inline-block;
+}
+#ytb h3 {
+    font-size: 16px;
+    font-weight: bold;
+    display: block;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+#ytb .col50Nth2 .video h3 span {
+    display: block;
+    font-weight: normal;
+    color: #999;
+    font-size: small;
+}
+div#ytb h1 {
+    margin-left: -15px;
+}
+img.imgThmbVid {
+    padding-bottom: 4px;
+}
+.laptopacc h1 {
+    font-size: 18px;
+    font-weight: bold;
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 15px 0px;
+    color: #f8a136;
+}
+.laptopacc a {
+    display: inline-block;
+    text-align: center;
+    margin: 0 12px 0 22px;
+    vertical-align: top;
+    width: 122px;
+    text-decoration: none;
+}
+.laptopacc a span {
+    display: block;
+    margin: 5px auto;
+    border-radius: 50%;
+    border: 1px solid #f8a136;
+    box-shadow: 0 1px 10px 0 #f8a136;
+    padding: 20px;
+    background-color: #fff;
+}
+.laptopacc a span img {
+    width: 80px;
+    height: 80px;
+}
+.laptopacc a h4 {
+    color: #f8a136;
+    padding-top: 10px;
+    font-size: 15px;
+}
+.laptopacc {
+    margin-left: -15px;
+    margin-top: 20px;
+}
+.navirelate {
+    display: block;
+    overflow: hidden;
+    background: #fff;
+    padding: 14px 0;
+    border-bottom: none;
+    text-align: left;
+    white-space: nowrap;
+    max-width: 1200px;
+    margin: 10px auto;
+    background-color: transparent;
+    margin-left: -15px;
+}
+section {
+    max-width: 1200px;
+}
+section {
+    max-width: 1200px;
+    width: 100%;
+    min-width: 980px;
+    margin: auto;
+    position: relative;
+}
+.navirelate div {
+    display: inline-block;
+    overflow: hidden;
+    vertical-align: top;
+    margin: 0;
+}
+.navirelate a {
+    display: inline-block;
+    vertical-align: top;
+    padding: 0 15px 0 0;
+    font-size: 12px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    margin: 0 10px 0 0;
+    text-align: left;
+}

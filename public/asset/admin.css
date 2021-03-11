@@ -1,0 +1,12 @@
+.add{
+    background: #337ab7;
+    float: right;
+    margin-bottom: 10px;
+    height: 32px;
+    width: 60px;
+    border: none;
+    color: white;
+}
+.add:hover{
+    background: #a1b8cc;
+}
